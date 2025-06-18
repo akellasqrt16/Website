@@ -14,7 +14,7 @@ header nav {
   nav button {
     background: #1c1c1c; /* Dark button background (Black) */
     color: var(--primary); /* Primary color text (Blue) */
-    border: 2px solid var(--primary); /* Primary border (Blue) */
+    border: 2px solid var(--primary); /* Primary border (Bluee) */
     padding: 6px 10px;
     border-radius: 4px;
     font-family: "Helvetica", sans-serif;
