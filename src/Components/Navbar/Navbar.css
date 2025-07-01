@@ -12,7 +12,7 @@ header nav {
   }
   
   nav button {
-    background: #1c1c1c; /* Dark button background (Black) */
+    background: #1c1c1c; /* Drk button background (Black) */
     color: var(--primary); /* Primary color text (Blue) */
     border: 2px solid var(--primary); /* Primary border (Bluee) */
     padding: 6px 10px;
