@@ -1,3 +1,4 @@
+@import "tailwindcss";
 /* Navbar */
 header nav {
     display: flex;
