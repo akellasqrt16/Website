@@ -5,6 +5,7 @@ import Navbar from "./Components/Navbar/Navbar";
 const rotatingTexts = ["Full Stack Engineer", "Algorithms Researcher", "Machine Learning Enthusiast", "Cybersecurity Competitor", "Photographer"]
 const colors = ["cyan", "magenta", "red", "orange", "lime"];
 
+//App component
 function App() {
 
   const [index, setIndex] = useState(0);
